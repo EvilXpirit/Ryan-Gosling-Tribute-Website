@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Tribute-Website/static/css/main.0fa12752.css",
-    "main.js": "/Tribute-Website/static/js/main.e8a543b2.js",
+    "main.css": "/Tribute-Website/static/css/main.ac0b0cd7.css",
+    "main.js": "/Tribute-Website/static/js/main.4fc69fbc.js",
     "static/js/453.882166ef.chunk.js": "/Tribute-Website/static/js/453.882166ef.chunk.js",
     "static/media/ryan_gosling_blade_runner_2049_hd.jpg": "/Tribute-Website/static/media/ryan_gosling_blade_runner_2049_hd.c9998ae3c266b1b60f4d.jpg",
     "static/media/the-place-beyond.jpg": "/Tribute-Website/static/media/the-place-beyond.cc5073a46ded2e438eb1.jpg",
@@ -10,18 +10,22 @@
     "static/media/ken-ryan.jpg": "/Tribute-Website/static/media/ken-ryan.94e194af9df66a4b60f3.jpg",
     "static/media/the-nice-guys.jpg": "/Tribute-Website/static/media/the-nice-guys.9a1a22b453cddc65ff01.jpg",
     "static/media/blader-runner.jpg": "/Tribute-Website/static/media/blader-runner.d8505415e837a2153adb.jpg",
+    "static/media/ryan-glow2.png": "/Tribute-Website/static/media/ryan-glow2.cf3327c896c396f9e021.png",
     "static/media/gosling-oscar.jpg": "/Tribute-Website/static/media/gosling-oscar.52d779ec28250e99a36d.jpg",
+    "static/media/ryan-glow.png": "/Tribute-Website/static/media/ryan-glow.752f005465d8b837ca7c.png",
+    "static/media/The_Fall_Guy.jpg": "/Tribute-Website/static/media/The_Fall_Guy.8ed598988061958bc46a.jpg",
     "static/media/drive.jpg": "/Tribute-Website/static/media/drive.a68c8977421b4c9d01aa.jpg",
+    "static/media/blue-valentine.jpg": "/Tribute-Website/static/media/blue-valentine.a5c8dc57c7952596ba0b.jpg",
     "static/media/only-god-forgives.webp": "/Tribute-Website/static/media/only-god-forgives.5d1f5aae60ed8e336515.webp",
     "static/media/first-man.webp": "/Tribute-Website/static/media/first-man.057b21bc1583bb8ad966.webp",
     "static/media/gosling.webp": "/Tribute-Website/static/media/gosling.5dc2ad01790877b6408e.webp",
     "index.html": "/Tribute-Website/index.html",
-    "main.0fa12752.css.map": "/Tribute-Website/static/css/main.0fa12752.css.map",
-    "main.e8a543b2.js.map": "/Tribute-Website/static/js/main.e8a543b2.js.map",
+    "main.ac0b0cd7.css.map": "/Tribute-Website/static/css/main.ac0b0cd7.css.map",
+    "main.4fc69fbc.js.map": "/Tribute-Website/static/js/main.4fc69fbc.js.map",
     "453.882166ef.chunk.js.map": "/Tribute-Website/static/js/453.882166ef.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0fa12752.css",
-    "static/js/main.e8a543b2.js"
+    "static/css/main.ac0b0cd7.css",
+    "static/js/main.4fc69fbc.js"
   ]
 }
