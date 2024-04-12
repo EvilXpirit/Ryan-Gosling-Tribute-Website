@@ -30,6 +30,15 @@
   text-shadow: 2px 1px 6px rgb(108, 108, 108);
 }
 
+.youtube-video{
+  transition: transform 0.3s ease;
+  box-shadow: 1px 2px 8px rgba(255, 255, 255, 0.467);
+}
+
+.youtube-video:hover {
+  transform: scale(1.04);
+}
+
 .content {
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   padding: 50px 0;
@@ -167,12 +176,12 @@ footer{
   opacity: 0.8;
   position: absolute;
   bottom: -30px; 
-  left: -70px; /* Adjust the left position as needed */
-  width: 200px; /* Adjust the width as needed */
-  height: 400px; /* Adjust the height as needed */
+  left: -70px; 
+  width: 200px; 
+  height: 400px; 
   background-image: url('./images/ryan-glow.png');
   background-size: cover;
-  animation: upDownAnimation 2s infinite; /* Adjust the animation duration as needed */
+  animation: upDownAnimation 2s infinite; 
 }
 
 .ryan-glow2 {
@@ -180,12 +189,12 @@ footer{
   position: absolute;
   /* bottom: 230px;  */
   bottom: -30px; 
-  right: -70px; /* Adjust the left position as needed */
-  width: 220px; /* Adjust the width as needed */
-  height: 390px; /* Adjust the height as needed */
+  right: -70px; 
+  width: 220px; 
+  height: 390px; 
   background-image: url('./images/ryan-glow2.png');
   background-size: cover;
-  animation: upDownAnimation 2s infinite; /* Adjust the animation duration as needed */
+  animation: upDownAnimation 2s infinite; 
 }
 
 

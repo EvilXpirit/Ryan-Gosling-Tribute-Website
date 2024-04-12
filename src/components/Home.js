@@ -17,6 +17,7 @@ function Home() {
           </Col>
           <Col>
             <iframe
+            className="youtube-video"
               width="700"
               height="426"
               src="https://www.youtube.com/embed/Hq6I-xPwtU0"
