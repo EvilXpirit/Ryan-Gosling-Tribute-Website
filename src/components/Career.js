@@ -11,6 +11,8 @@ import niceguys from "../images/the-nice-guys.jpg";
 import onlygod from "../images/only-god-forgives.webp";
 import firstman from "../images/first-man.webp";
 import place from "../images/the-place-beyond.jpg";
+import valentine from "../images/blue-valentine.jpg";
+import fall from "../images/The_Fall_Guy.jpg";
 
 function Career() {
   return (
@@ -111,7 +113,7 @@ function Career() {
         </Card>
       </CardGroup>
 
-      <CardGroup className="cards gap-3">
+      <CardGroup className="cards gap-3 mb-3">
         <Card className="bg-dark text-white">
           <Card.Img variant="top" src={firstman} />
           <Card.Body>
@@ -132,6 +134,37 @@ function Career() {
               film directed by Derek Cianfrance with a screenplay by Cianfrance,
               Ben Coccio and Darius Marder from a story by Cianfrance and
               Coccio.
+            </Card.Text>
+          </Card.Body>
+        </Card>
+      </CardGroup>
+
+      <CardGroup className="cards gap-3">
+        <Card className="bg-dark text-white">
+          <Card.Img variant="top" src={valentine} />
+          <Card.Body>
+            <Card.Title>Blue Valentine</Card.Title>
+            <Card.Text>
+              Blue Valentine is a 2010 American romantic drama film written and
+              directed by Derek Cianfrance. Cianfrance, Cami Delavigne, and Joey
+              Curtis wrote the film, and the band Grizzly Bear scored it. Blue
+              Valentine depicts a married couple, played by Michelle Williams
+              and Ryan Gosling, shifting back and forth in time between their
+              courtship and the dissolution of their marriage several years
+              later.
+            </Card.Text>
+          </Card.Body>
+        </Card>
+        <Card className="bg-dark text-white">
+          <Card.Img variant="top" src={fall} />
+          <Card.Body>
+            <Card.Title>The Fall Guy</Card.Title>
+            <Card.Text>
+              The Fall Guy is a 2024 upcoming American action comedy film
+              directed by David Leitch and written by Drew Pearce, loosely based
+              on the 1980s TV series about stunt performers. It stars Ryan
+              Gosling and Emily Blunt, with Winston Duke, Aaron Taylor-Johnson,
+              Hannah Waddingham, and Stephanie Hsu in supporting roles.
             </Card.Text>
           </Card.Body>
         </Card>

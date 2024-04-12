@@ -18,6 +18,14 @@ function Quotes() {
     {
       text: "I don't know what space exploration will uncover, but I don't think it'll be exploration just for the sake of exploration",
       author: "First Man"
+    },
+    {
+      text: "All the best memories are hers.",
+      author: "Blade Runner 2049"
+    },
+    {
+      text: "There’s a hundred-thousand streets in this city. You don’t need to know the route. You give me a time and a place, I give you a five minute window.",
+      author: "Drive"
     }
   ];
 
@@ -29,7 +37,7 @@ function Quotes() {
       {quotes.map((quote, index) => (
         <Row key={index} className="justify-content-center mt-3">
           <Col xs={10} md={8} lg={6}>
-            <Card className="text-center bg-dark text-white">
+            <Card className="text-center bg-dark text-white blockquote">
               <Card.Body>
                 <Card.Text>"{quote.text}"</Card.Text>
                 <Card.Title>- {quote.author}</Card.Title>
